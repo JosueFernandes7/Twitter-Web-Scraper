@@ -1,5 +1,4 @@
-
-1 passo
-instalar pandas e flask, request e beautifulsoup
-pip install pandas
-pip install flask
+# Web Scraping Insta
+1. Passo
+> Instalar Selenium e Chrome Driver
+>> pip install selenium 
