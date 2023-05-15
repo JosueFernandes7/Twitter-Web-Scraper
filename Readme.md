@@ -1,4 +1,8 @@
 # Web Scraping Insta
-1. Passo
-> Instalar Selenium e Chrome Driver
->> pip install selenium 
+
+Ideia é fazer uma captura de dados de um usuário dado o @, e retornar através de uma api os mesmos!
+Bibliotecas utilizadas:
+
+Selenium, BeatifulSoup para o Scraper
+
+e Flask para a API
